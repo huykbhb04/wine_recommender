@@ -1,4 +1,4 @@
-# 📘 HỆ THỐNG GỢI Ý RƯỢU VANG --- BÁO CÁO TỔNG HỢP & README DỰ ÁN
+# 📘 HỆ THỐNG GỢI Ý RƯỢU VANG 
 
 ## 1. Giới thiệu tổng quan
 
@@ -222,23 +222,5 @@ streamlit run app.py
 
 ------------------------------------------------------------------------
 
-## 9. Kết quả & hình ảnh minh họa
 
-(Có thể chèn ảnh minh họa UI tuỳ ý)
 
-------------------------------------------------------------------------
-
-## 10. Hướng phát triển
-
--   Áp dụng Collaborative Filtering khi có dữ liệu người dùng.
--   Tăng số lượng thuộc tính sản phẩm.
--   Dùng mô hình embedding lớn hơn (BERT Multilingual).
--   Lưu logs người dùng → cá nhân hóa gợi ý.
--   Deploy lên cloud (Streamlit Cloud / Render / Azure).
-
-------------------------------------------------------------------------
-
-## 11. Tác giả
-
--   Sinh viên thực hiện: **Bùi Đức Huy**
--   Giảng viên hướng dẫn: **TS. Đặng Ngọc Hùng**
